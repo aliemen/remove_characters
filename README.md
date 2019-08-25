@@ -5,6 +5,6 @@ Da jedoch Programme, wie Notepad++, viel Zeit benötigen, wenn es um hunderttaus
 Miniprogramm geschrieben, dass diese Aufgabe in einem Bruchteil der Zeit erledigt.
 P.s.: Der Button "Zahlen modifizieren" ist dazu da, die in Deutschen Programmen verwendete Kommaschreibweise für Dezimalzahlen in die für z.B. Java verständliche Punktschreibweise zu ändern.
 
-##src/ZeichenErsetzen.jar
+# src/ZeichenErsetzen.jar
 
 Hier ist der Code für das Programm!
